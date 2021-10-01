@@ -1,6 +1,6 @@
 ---
 title: Weigelt et al. 2021
-author: R package build
+author: Hilary Rose Dawson
 date: '2021-10-01'
 slug: weigelt-et-al-2021
 categories:
