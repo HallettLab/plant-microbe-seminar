@@ -22,4 +22,4 @@ This was an opinion paper on how the functional trait approach can produce gener
 * Traits could make the community ecology theories (e.g., dominance-tolerance trade-off) more quantitative and rigorous. 
 
 # Importance
-A dominant thinking around early 2000s was that population dynamics build up into community matrices (in parallel with the emphasis on pairwise species interactions), but this approach is difficult to do with large number of species. This paper brought light that functional traits can be used to generalize patterns in communities: the idea that the differences in traits between species and the environmental variation along gradients shape communities. 
+A dominant thinking around early 2000s was that population dynamics build up into community matrices (in parallel with the emphasis on pairwise species interactions), but this approach is difficult to do with large number of species. This paper brought to light the use of functional traits to generalize patterns in communities: the idea that the differences in traits between species and the environmental variation along gradients shape communities. 
