@@ -15,7 +15,7 @@ https://doi.org/10.1002/ecy.2971
 
 C.R. Zirbel and L.A. Brudvig 2020. Trait-environment interactions affect plant establishment success during restoration. Ecology 101(3)
 
-**Summary:**
+**What they did:**
 
 The authors looked at how plant traits interact with environment to affect estabishment in a restoration context. They worked within 12 ongoing restorations at Kellog Biological Station in Michigan.  
 
