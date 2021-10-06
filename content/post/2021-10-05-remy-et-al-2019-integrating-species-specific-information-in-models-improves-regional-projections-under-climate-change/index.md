@@ -33,3 +33,5 @@ This study elucidated large discrepancies among generalized functional type and 
 ## Future Directions
 -Large scale data mining of species-specific effects in response to climate change
 -Finding stronger correlations between generalized and species-specific parameters 
+
+
