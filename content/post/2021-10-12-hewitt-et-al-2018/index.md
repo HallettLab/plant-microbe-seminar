@@ -23,3 +23,5 @@ This study measured labelled 15N uptake by different plant species to determine 
 Deep rooted graminoid and forb species wtih fungal associates access depp N immediately, however forbs incorporated more N over a longer timescale. Increased productivity of shrub species may slightly offset carbon loss from thawing permafrost. 
 
 ## Future Directions
+- Modelling of root and N interactions to better understand how the regional carbon balance will be impacted. 
+
