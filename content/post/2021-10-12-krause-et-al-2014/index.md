@@ -21,7 +21,7 @@ Published: May 27, 2014
 
 ## What they did:
 
-In this review, Krause et al. highlights studies that have focused on biodiversity - ecosystem functioning (BEF) in microbial systems and discusses the importance of future work focusing on . They also discuss the differences between manipulated diversity and comparative studies when wanting to study traits. Lastly, they go over the importance of taxonomy and identifying traits and trait trade-offs at the single cell or organism level. The grimes CSR model is used to sort traits and life stratedgies that could be used for microbial systems.
+In this review, Krause et al. highlights studies that have focused on biodiversity - ecosystem functioning (BEF) in microbial systems and discusses the importance of future work focusing on . They also discuss the differences between manipulated diversity and comparative studies when wanting to study traits. Lastly, they go over the importance of taxonomy and identifying traits and trait trade-offs at the single cell or organism level. The grimes CSR model is used to sort traits and life strategies that could be used for microbial systems.
 
 ## Conclusions:
  
