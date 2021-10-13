@@ -1,6 +1,6 @@
 ---
 title: Krause et al. 2014
-author: Emily 
+author: Emily Hill
 date: '2021-10-12'
 slug: krause-et-al-2014
 categories:
