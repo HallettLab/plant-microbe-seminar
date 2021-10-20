@@ -4,14 +4,14 @@ author: Emily Hill
 date: '2021-10-12'
 slug: krause-et-al-2014
 categories:
-  - functional traits
+  - functional traits,\
 tags:
   - emily
   - ecosystem functioning
   - microbial functional traits
 ---
 
-# Trait-based approaches for understanding microbial biodiversity and ecosystem functioning 
+# Trait-based approaches for understanding microbial biodiversity and ecosystem functioning. 
 
 *By Sascha Krause1,2, Xavier Le Roux3, Pascal A. Niklaus4, Peter M. Van Bodegom5, JayT. Lennon6, Stefan Bertilsson7, Hans-PeterGrossart8,9, Laurent Philippot10 and Paul L. E. Bodelier1.*
 
