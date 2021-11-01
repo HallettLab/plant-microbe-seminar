@@ -4,18 +4,18 @@ author: Hilary Rose Dawson
 date: '2021-10-18'
 slug: boeddinghaus-et-al-2019
 categories:
-  - plant functional traits
-  - microbe traits
+  - plant functional traits
+  - microbe traits
 tags:
-  - belowground traits
-  - ecosystem function
-  - functional traits
-  - hilaryrose
-  - microbial functional traits
-  - nutrients
-  - plant functional traits
-  - rhizosphere
-  - roots
+  - belowground traits
+  - ecosystem function
+  - functional traits
+  - hilaryrose
+  - microbial functional traits
+  - nutrients
+  - plant functional traits
+  - rhizosphere
+  - roots
 ---
 
 # Plant functional trait shifts explain concurrent changes in the structure and function of grassland soil microbial communities
