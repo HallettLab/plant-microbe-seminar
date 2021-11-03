@@ -12,13 +12,13 @@ https://doi.org/10.1093/jxb/ert249
 
 **What they did:**
 
-They grew multiple populations of three species of sunflowers under the same controlled environmental conditions.
+They grew multiple populations of three species of sunflowers under the same controlled environmental conditions in growth chambers.
 
-They asked how leaf economic spectrum (resource conservative vs. acquisitive) related traits change at different developmental stages. 
+They asked how leaf economic spectrum (resource conservative vs. acquisitive) related traits change at different developmental stages (juvenile, not budding, budding, pre-reproductive, flowering, fruiting). 
 
 **Findings:**
 
-Traits did vary over development, but with inconsistent patterns. Some traits (photosynthetic rate, leaf nitrogen, LMA) had huge variation (2/3 of all variability even across species).
+Traits did vary over development, juveniles were especially different, but with inconsistent patterns. Some traits (photosynthetic rate, leaf nitrogen, LMA) had huge variation (2/3 of all variability even across species).
 
 **Why it's interesting:**
 
