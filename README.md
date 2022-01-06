@@ -2,6 +2,10 @@
 
 This repository houses the Plant-Microbe Seminar website, which is shared among members through Github and hosted by Netlify. 
 
+## Create GitHub authentication key
+
+At some point in this process, you will be asked for your GitHub authentication key. Use the instructions at this link to create this key. It is recommended that you make a key that never expires. Don't forget to give the key both read and write capabilities. https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token 
+
 ## Initial set-up
 
 1) Create a Github user name and share it with Lauren, who can add you to the Hallett Lab organization page and as a contributor to this site.
