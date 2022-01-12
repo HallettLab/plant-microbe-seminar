@@ -16,6 +16,6 @@ slug: chesson-2000-annotated
 ---
 Struggling to keep track of all the variables in Chesson (2000)? Here're the annotated equations I'm using as I try to make sense of this all. (These only make sense in the context of the paper--definitely don't use them as a substitute to reading the real thing.)
 
-![](/content/img/Chesson 2000 annotated-01.png)
+<img src="images/Chesson 2000 annotated-01.png" alt="" width="80%"/>
 
-![](/content/img/Chesson 2000 annotated-02.png)
+<img src="images/Chesson 2000 annotated-02.png" alt="" width="80%"/>
