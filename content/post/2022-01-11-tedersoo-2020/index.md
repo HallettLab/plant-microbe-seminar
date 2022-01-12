@@ -1,8 +1,8 @@
 ---
-title: tedersoo 2020
+title: How mycorrhizal associations drive plant population and community biology
 author: Lina
 date: '2022-01-11'
-slug: tedersoo-2020
+slug: Tedersoo-2020-science
 categories:
   - coexistence theory
 tags:
