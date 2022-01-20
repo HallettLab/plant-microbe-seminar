@@ -6,7 +6,7 @@ slug: neuenkamp-2019
 categories:
   - grassland
   - amf
-  -competition
+  - competition
   - alejandro
 tags: []
 ---
