@@ -1,0 +1,30 @@
+---
+title: Stein & Mangan 2020
+author: Cal
+date: '2022-01-12'
+slug: stein-mangan-2020
+categories:
+  - coexistence
+tags:
+  - community assembly
+  - coexistence theory
+  - plant-biotic interactions
+  - soil microbes
+---
+# Soil biota increase the likelihood for coexistance among competing plant species
+*Claudia Stein and Scott Mangan*  
+# Published 2020 in Ecology
+https://doi.org/10.1002/ecy.3147
+
+# What they did
+The authors assessed whether plant–soil biotic interactions are specific enough to generate plant-soil feedbacks and investigated what the relative importance of competition soil biota is in suppressing plant growth at high density (i.e. testing stabilizing effects for species coexistence).
+
+They did this by coupling greenhouse and field experiments with community dynamics modeling.
+
+# What they found
+
+Stein & Mangan found evidence suggesting interactions between plants and their soil biota have a stronger determinantion for plant diversity than competition alone, and that plant evolutionary history could have a significant effect on plant–biotic interactions - compared to plant–plant competitive interactions.
+
+
+# Why is it interesting
+Reletivly few studies have been able to identify the relative importance of these underlying processes which lead to reductions in plant performance as  high conspecific densities increase. As such, these results demonstrate how soil biota have a fundamental role in maintaining plant community diversity.
