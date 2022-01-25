@@ -16,6 +16,7 @@ This paper is a review about current knowledge of within-host disease diversity 
 
 
 What they found  
+They discuss plant defense responses to co-infection, which can trigger host immunity and susceptibility, and impact hormone signaling. Then they touch on how the host environment can alter microbial lifestyle between commensal to pathogenic. Opportunistic pathogens are sometimes able to utilize growth promoting factors produced by other pathogens, which facilitate attacks by both pathogens on the host. Certain pathogens are not even considered pathogenic unless they co-occur with other microbes. Genetic adaptations promoting virulence and pathogenicity show close evolutionary histories between certain pathogens that are found in co-infections.
 
 Why it matters  
 Pathogens are one of the greatest threats to plants, and understanding the implications of multiple-pathogen coinfections provides a unique perspective that can inform disease management decisions. Pathogens can behave differently when alone rather than co-infecting the host with another pathogen, so it is particularly important to think about the consequences of co-infection. 
