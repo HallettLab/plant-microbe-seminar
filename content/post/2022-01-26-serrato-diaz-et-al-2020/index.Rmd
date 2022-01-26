@@ -1,0 +1,11 @@
+---
+title: Serrato-Diaz et al. 2020
+author: Nicole
+date: '2022-01-26'
+slug: serrato-diaz-et-al-2020
+categories: []
+tags:
+  - pathogens
+  - fungal infections
+  - coffee plant
+---
