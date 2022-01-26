@@ -1,12 +1,12 @@
 ---
-title: Root exudates drive the soil born legacy of aboveground pathogen infection
+title: Yuan 2018 Microbiome
 author: Alejandro
 date: '2022-01-26'
 slug: yuan-2018-microbiome
 categories: [alejandro]
 tags: []
 ---
-
+Root exudates drive the soil born legacy of aboveground pathogen infection
 Yuan et al. 2018
 
 https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-018-0537-x
