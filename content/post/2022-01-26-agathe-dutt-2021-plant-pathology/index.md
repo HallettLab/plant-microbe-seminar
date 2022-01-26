@@ -10,12 +10,12 @@ tags:
   - competition
   - Hengameh
 ---
-# Multi-infections, competitive interactions, and pathogen coexistence
+## Multi-infections, competitive interactions, and pathogen coexistence
 
 ## What they did:
 They did a comprehensive overview  of  both  theoretical  and  empirical  knowledge  about  multiple  infection  in  plants
 
-## What tHey found:
+## What they found:
 several factors will modify the result of interactions be-tween different pathogens, and may affect the outcome of the disease. These factors include sites and timing of inoculations, level of infection, host age, or plant receptivity. Therefore, vast challenges still lie ahead for a more comprehensive understanding of multi-infections and their consequences on plant disease epidemics and on the ecology of plant disease complexes
 
 ## Why is it important:
