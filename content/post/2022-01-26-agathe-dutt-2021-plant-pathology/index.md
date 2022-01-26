@@ -16,7 +16,11 @@ tags:
 They did a comprehensive overview  of  both  theoretical  and  empirical  knowledge  about  multiple  infection  in  plants
 
 ## What they found:
+<<<<<<< HEAD
 several factors will modify the result of interactions between different pathogens, and may affect the outcome of the disease. These factors include sites and timing of inoculations, level of infection, host age, or plant receptivity. Therefore, vast challenges still lie ahead for a more comprehensive understanding of multi-infections and their consequences on plant disease epidemics and on the ecology of plant disease complexes
+=======
+several factors will modify the result of interactions be-tween different pathogens, and may affect the outcome of the disease. These factors include sites and timing of inoculations, level of infection, host age, or plant receptivity. Therefore, vast challenges still lie ahead for a more comprehensive understanding of multi-infections and their consequences on plant disease epidemics and on the ecology of plant disease complexes
+>>>>>>> 730d15f64ce890f8e791d7f33e62fd52e8e32a1a
 
 ## Why is it important:
 Having this Kind of reviews are important because  co-infections  are  an  integral  part  of  plant  disease  epidemics,  and  because  they  impact  the  health  status  of  the  crops  in  ways beyond the simple additive effects of their individual components.
