@@ -36,4 +36,4 @@ Burned soil had fewer plant pathogenic and saprotrophic fungi. Oak seedlings did
 We need to know more about how plants and microbes respond to fire to better manage post-fire landscapes. Previously, it was thought that these oak do well after fire because they had less interspecific competition, but these results indicate the story is more complicated.
 
 ## Who wrote it
-Lead author [**Kendall Beals**] (https://www.kendallbeals.com/) is a PhD candidate at the University of Tennessee planning to graduate this year. She is a member of senior author [**Jen Schweitzer's**] (http://jenschweitzer.com/people/) lab. 
+Lead author **[Kendall Beals]** (https://www.kendallbeals.com/) is a PhD candidate at the University of Tennessee planning to graduate this year. She is a member of senior author **[Jen Schweitzer's]** (http://jenschweitzer.com/people/) lab. 
