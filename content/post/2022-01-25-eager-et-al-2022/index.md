@@ -2,7 +2,7 @@
 title: Eager et al. (Applied and Environmental Microbiology)
 author: Hilary Rose Dawson
 date: '2022-01-25'
-slug: arbuscular-mycorrhizal-tree-communities-have-greater-soil-fungal-diversity-and-relative-abundances-of-saprotrophs-and-pathogens-than-ectomycorrhizal-tree-communities
+slug: eager-et-al-2022
 categories:
   - pathogens
 tags:
