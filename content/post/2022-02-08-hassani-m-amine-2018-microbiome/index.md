@@ -19,7 +19,7 @@ tags:
 
 ## What they did:
 
-This review focuses on three microbial groups (bacteria, fungi and protists) that are abundantly found on plant tissues and briefly describes the diverse mechanisms used by these microbes to cooperate and compete in planta and also how these microbial interactions represent important organizational rules structuring the plant microbiota as well as their impact on plant growth and health
+This review focuses on three microbial groups (bacteria, fungi and protists) that are abundantly found on plant tissues and briefly describes the diverse mechanisms used by these microbes to cooperate and **compete** in planta and also how these microbial interactions represent important organizational rules structuring the plant microbiota as well as their impact on plant growth and health
 
 ## What they concluded:
 
