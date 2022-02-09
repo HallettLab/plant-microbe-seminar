@@ -15,6 +15,8 @@ tags:
 
 # Microbial interactions within the plant holobiont
 
+*M. Amine Hassani, Paloma Durán & Stéphane Hacquard*
+
 ## What they did:
 
 
