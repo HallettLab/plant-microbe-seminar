@@ -1,7 +1,6 @@
 ---
 title: Hortal et al 2017 Scientific Report
-author: S. Hortal, Y. M. Lozano, F.  Bastida, C. Armas, J.L. Moreno, C. Garcia, &
-  F.I Pugnaire
+author: Nicole Martinez-Llaurador
 date: '2022-02-09'
 slug: hortal-et-al-2017-scientific-report
 categories:
