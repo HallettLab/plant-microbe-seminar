@@ -2,7 +2,7 @@
 title: Shahrtash and Brown 2021 Plants
 author: Rebecca Hayes
 date: '2022-04-05'
-slug: shahryash-and-brown-2021-plants
+slug: shahrtash-and-brown-2021-plants
 categories:
   - facilitation
 tags:
@@ -29,3 +29,5 @@ This review provides a good background of known research into incorporating micr
 1. Integrated predictive models to understand multipartite effects of pathogen-endophyte interactions associated with invasive plants  
 2. Define and understand core pathogen-endophyte combinations on invasive plants to inform future studies  
 3. Developing targeted application plans informed by how microbial communities mechanistically interact with hosts, environment, and management practices
+
+[Link to Paper](https://www.mdpi.com/2223-7747/10/5/943/htm)
