@@ -27,7 +27,7 @@ Boynton PJ, Peterson CN, Pringle A. 2019. Appl Environ Microbiol 85:e02421-18. h
 
 **Findings:**
 
-+ They found that the yeast *Candida pseudoglaebosa* was the dominant component of the microbial community within the pitcher plants even though it was not a superior competitor. C. pseudoglaebosa has a high dispersal ability, allowing it to be the dominant component of the metacommunity (and the most frequent fungal taxon at every timepoint) even though it did not dominate in every pitcher plant.
++ They found that the yeast *Candida pseudoglaebosa* was the dominant component of the microbial community within the pitcher plants even though it was not a superior competitor. *C. pseudoglaebosa* has a high dispersal ability, allowing it to be the dominant component of the metacommunity (and the most frequent fungal taxon at every timepoint) even though it did not dominate in every pitcher plant.
 
 
 **Why it's interesting:**
